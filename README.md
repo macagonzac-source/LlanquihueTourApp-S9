@@ -29,7 +29,7 @@ Organizado bajo la estructura `cl.duoc.llanquihuetour`:
 
 ## ⚙️ Instrucciones de uso
 
-1.  **Clonar:** `git clone https://github.com`
+1.  **Clonar:** `git clone https://github.com/macagonzac-source/LlanquihueTourApp-S9/tree/main/LlanquihueTourApp-S9`
 2.  **IDE:** Abrir en IntelliJ IDEA.
 3.  **Datos:** Verificar `personas.txt` en la raíz.
 4.  **Ejecución:** Correr `Main.java`.
