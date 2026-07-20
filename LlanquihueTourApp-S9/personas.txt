@@ -1,0 +1,3 @@
+CLIENTE,18453912-K,Juan Perez,Calle Los Pinos 123,Llanquihue,Los Lagos,Nacional
+GUIA,15923481-4,Maite Gomez,Av. Costanera 45,Puerto Varas,Los Lagos,Ingles-Aleman
+CLIENTE,9642158-7,John Doe,Hotel Sol 300,Frutillar,Los Lagos,Extranjero
